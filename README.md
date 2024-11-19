@@ -106,7 +106,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-<h1 align="center">Hi there, I'm Aiman Zaharin</h1>
+<h1 align="center">Hi there, I'm Nor Aiman Zaharin bin Noor Azwan (2115931)</h1>
 <h3 align="center">A young developer from Malaysia</h3>
 
 - 🔭 I’m currently studying **Computer Science specialized in Data Science and Computational Intelligence at International Islamic University Malaysia**
