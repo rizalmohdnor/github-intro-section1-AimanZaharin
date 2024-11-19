@@ -2,7 +2,7 @@
 
 ## 🤓 Course overview and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform - Aiman. 🚀
+The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
 ## :octocat: Git and GitHub
 
@@ -106,4 +106,13 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-Hi my name is Nor Aiman Zaharin and I just discovered how to use Git :)
+<h1 align="center">Hi there, I'm Aiman Zaharin</h1>
+<h3 align="center">A young developer from Malaysia</h3>
+
+- 🔭 I’m currently studying **Computer Science specialized in Data Science and Computational Intelligence at International Islamic University Malaysia**
+
+- 🌱 I’m currently enhancing my machine learning and data science skills
+
+- 👨‍💻 All of my projects are available at [https://github.com/AimanZaharin?tab=repositories](https://github.com/AimanZaharin?tab=repositories)
+
+- 📫 How to reach me **naimanzaharin@gmail.com**
